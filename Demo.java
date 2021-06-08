@@ -1,5 +1,5 @@
 public class Demo {
-    // Спасибо Klitos Kyriacou из тырнета за этот метод. Сам бы никогда не додумался)
+    // thx Klitos Kyriacou
     public static long getReverse(int arg_num){
         long tmpRev = 0;
 
